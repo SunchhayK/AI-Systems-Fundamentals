@@ -1,0 +1,42 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables & keys
+.env
+.env.*
+!.env.example
+
+# Large model weights & datasets
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.parquet
+*.sqlite3
+data/
+models/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Operating system & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Testing & linters
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
