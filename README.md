@@ -9,3 +9,5 @@ Implementations built from scratch to study foundational AI system architectures
   - Cosine similarity vector comparison using the standard library
   - In-memory document indexing and top-k retrieval
   - Augmented prompt assembly
+
+See [ROADMAP.md](ROADMAP.md) for upcoming modules.
